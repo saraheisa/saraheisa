@@ -4,7 +4,7 @@
 
 [![JavaScript_HTML_CSS_Python_NodeJS_MySQL_PostgreSQL_MongoDB_ReactJS_Express_next.js](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_PostgreSQL_MongoDB_ReactJS_Express_next.js)](https://pimp-my-readme.webapp.io)
 
-[![Visitor Counter for saraheisa](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=saraheisa)](https://pimp-my-readme.webapp.io)
+<!-- [![Visitor Counter for saraheisa](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=saraheisa)](https://pimp-my-readme.webapp.io) -->
 
 <!--
 **saraheisa/saraheisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
